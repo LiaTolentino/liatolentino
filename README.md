@@ -1,11 +1,11 @@
-# Hi there  👋
+## Hi there  👋
 
-## I'm *Natália Tolentino* 🥰
+### I'm *Natália Tolentino* 🥰
 
 <div align="center">
   <a href="https://github.com/liatolentino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liatolentino&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liatolentino&layout=compact&langs_count=7&theme=panda"/>
+  <img height="180em" display="inline_block" src="https://github-readme-stats.vercel.app/api?username=liatolentino&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+  <img height="180em" display="inline_block"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=liatolentino&layout=compact&langs_count=7&theme=panda"/>
 </div>
   
 <div style="display: inline_block"><br>
