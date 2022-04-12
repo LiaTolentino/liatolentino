@@ -41,8 +41,6 @@ I'm doing an Analysis and System Development Degree and also study by myself usi
   <a href="https://www.linkedin.com/in/nataliatolentino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   
-    ![Snake gif](https://github.com/LiaTolentino/liatolentino/blob/output/github-contribution-grid-snake.svg)
-  
  </div>
 <!--
 **LiaTolentino/liatolentino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
