@@ -1,6 +1,6 @@
 # Hi 👋 I'm *Natália Tolentino* 🥰
 
-I'm doing an Analysis and System Development Degree and also study by myself using Alura platform, because I want to be a Full Stack Developer.
+I'm doing an Analysis and System Development Degree and also study by myself using Alura and DIO platform.
 
 # Stats
 
