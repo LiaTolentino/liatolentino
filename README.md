@@ -1,38 +1,88 @@
-<h1 align="center">Hi 👋 I'm <strong>Natália Tolentino</strong> 🥰</h1></br>
+<h1 align="center">Hi 👋, I'm Natalia Tolentino</h1>
 
-  <p align="center">I'm studying Analysis and System Development Degree and also do some independent studies in online platforms</p></br>
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="coding gif">
+</p>
 
-<h1 align="center">Stats</h1></br>
-  <div align="center">
-    <a href="https://github.com/liatolentino">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=liatolentino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liatolentino&layout=compact&langs_count=7&theme=dracula"/>
-  </div></br>
-  
-  
-<h1 align="center">Skills</h1></br>
-  <div style="display: inline_block"; align="center"><br>
-    <img alt="Natalia-Js" height="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img alt="Natalia-HTML" height="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img alt="Natalia-CSS" height="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div></br>
-  
-  
-<h1 align="center">Languages</h1></br>
-  <p>I love how learn languages opens a whole new world for us, like the possibility to have acess information that I can't find in my native language and know different cultures. As a self driven learner, I taught myself English and some Spanish.</p>
+<h3 align="center">👩‍💻 About Me</h3>
+<p align="left">
+✨ <strong>Software Developer</strong> passionate about building reliable and scalable solutions.<br>
+🎓 Degree in <strong>Analysis and Systems Development</strong>, always learning about modern software architecture.<br>
+💡 Love <strong>backend development</strong>, <strong>API design</strong>, and <strong>databases</strong> to make systems efficient.<br>
+🌱 Lifelong learner: self-taught in <strong>English</strong> and currently studying <strong>Spanish</strong>.<br>
+🤝 Open to collaborating on projects that bring innovation and growth.
+</p><br>
 
-  <div style="display: inline_block"; align="center"><br>
-    <img alt="PT-BR" height="60em" src="https://user-images.githubusercontent.com/93955038/142084987-dc9d83a6-74e1-40d8-9a47-d9156eaa065f.png" title="Português" />
-    <img alt="US" height="60em" src="https://user-images.githubusercontent.com/93955038/142084633-5ff1ec86-b6c3-48b2-9e65-6ac52702f369.png" title="English" />
-    <img alt="ES" height="60em" src="https://user-images.githubusercontent.com/93955038/142085531-43c9a468-d2ff-48c2-8241-372a448753f5.png" title="Español" />
-  </div></br>
+---
 
-<h1 align="center">Contacts</h1></br>
-  <div style="display: inline_block"; align="center"> 
-    <a href="https://instagram.com/natalia.tolentino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:naattolentino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/nataliatolentino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    </div></br>
+<h3 align="center">💻 Languages and Tools</h3>
+<br>
+<h4 align="left">Programming Languages</h4>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60" style="margin:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" style="margin:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" style="margin:10px;"/>
+</p>
+
+<h4 align="left">Frontend Development</h4>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="60" height="60" style="margin:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="60" height="60" style="margin:10px;"/>
+</p>
+
+<h4 align="left">Backend Development</h4>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="60" height="60" style="margin:10px;"/>
+</p>
+
+<h4 align="left">Databases</h4>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" style="margin:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" style="margin:10px;"/>
+</p>
+
+<h4 align="left">Cloud & DevOps</h4>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60" height="60" style="margin:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" style="margin:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" style="margin:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="60" height="60" style="margin:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60" style="margin:10px;"/>
+</p><br>
+
+---
+
+<h3 align="center">🌍 Spoken Languages</h3>
+<br>
+<p align="left">
+  <img src="https://flagicons.lipis.dev/flags/4x3/br.svg" width="60" height="60" style="margin: 20px;" alt="Portuguese"/>
+  <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" width="60" height="60" style="margin: 20px;" alt="English"/>
+  <img src="https://flagicons.lipis.dev/flags/4x3/es.svg" width="60" height="60" style="margin: 20px;" alt="Spanish"/>
+</p><br>
+
+---
+
+<h3 align="center">📊 Stats</h3>
+<br>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liatolentino&layout=compact&langs_count=10&theme=dracula&card_width=500" alt="Top Langs Stats" />
+</p><br>
+
+---
+
+<h3 align="center">🤝 Connect with me</h3>
+<br>
+<p align="left">
+  <a href="https://www.linkedin.com/in/nataliatolentino" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p><br>
+
+
+
+
+
+
     
 <!--
 **LiaTolentino/liatolentino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
